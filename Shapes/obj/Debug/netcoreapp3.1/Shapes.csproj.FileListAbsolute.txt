@@ -1,0 +1,13 @@
+D:\visual studio sdk\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+D:\visual studio sdk\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+D:\visual studio sdk\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+D:\visual studio sdk\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+D:\visual studio sdk\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+D:\visual studio sdk\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+D:\visual studio sdk\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+D:\visual studio sdk\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+D:\visual studio sdk\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+D:\visual studio sdk\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+D:\visual studio sdk\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+D:\visual studio sdk\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+D:\visual studio sdk\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache
