@@ -1,0 +1,13 @@
+D:\visual studio sdk\Biquadratic\obj\Debug\netcoreapp3.1\Biquadratic.csprojAssemblyReference.cache
+D:\visual studio sdk\Biquadratic\obj\Debug\netcoreapp3.1\Biquadratic.AssemblyInfoInputs.cache
+D:\visual studio sdk\Biquadratic\obj\Debug\netcoreapp3.1\Biquadratic.AssemblyInfo.cs
+D:\visual studio sdk\Biquadratic\obj\Debug\netcoreapp3.1\Biquadratic.csproj.CoreCompileInputs.cache
+D:\visual studio sdk\Biquadratic\bin\Debug\netcoreapp3.1\Biquadratic.exe
+D:\visual studio sdk\Biquadratic\bin\Debug\netcoreapp3.1\Biquadratic.deps.json
+D:\visual studio sdk\Biquadratic\bin\Debug\netcoreapp3.1\Biquadratic.runtimeconfig.json
+D:\visual studio sdk\Biquadratic\bin\Debug\netcoreapp3.1\Biquadratic.runtimeconfig.dev.json
+D:\visual studio sdk\Biquadratic\bin\Debug\netcoreapp3.1\Biquadratic.dll
+D:\visual studio sdk\Biquadratic\bin\Debug\netcoreapp3.1\Biquadratic.pdb
+D:\visual studio sdk\Biquadratic\obj\Debug\netcoreapp3.1\Biquadratic.dll
+D:\visual studio sdk\Biquadratic\obj\Debug\netcoreapp3.1\Biquadratic.pdb
+D:\visual studio sdk\Biquadratic\obj\Debug\netcoreapp3.1\Biquadratic.genruntimeconfig.cache
